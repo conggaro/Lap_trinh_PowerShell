@@ -1,5 +1,5 @@
 # Thiết lập thông tin kết nối
-$connectionString = "Password=tvc@123;User ID=sa;Initial Catalog=VANESA_DODULIEU;Data Source=192.168.60.22\SQLSERVER2022;TrustServerCertificate=True"
+$connectionString = "Your connection string"
 
 # Đường dẫn tới file Excel
 $excelFilePath = "C:\Users\CongPC\Music\outputfile.xlsx"
